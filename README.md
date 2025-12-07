@@ -24,12 +24,7 @@ Enthusiastic and detail-oriented **Computer Science Engineering student** with h
 - GitHub  
 - Postman  
 - Canva  
-
-### **Languages**
-- Java  
-- English, Tamil, Telugu  
-
----
+ ---
 
 ## 🏗️ Featured Project
 
@@ -50,34 +45,6 @@ A centralized web platform designed for **property owners, buyers, tenants, and 
 
 This project strengthened my backend fundamentals and exposed me to scalable API design.
 
----
-
-## 💼 Internship Experience
-
-### **ADVIYO | Hosur, India**
-**Backend Developer Intern**  
-- Developed and integrated backend APIs for a **real estate marketing & management project**  
-- Created REST endpoints for listings, leads, contact forms  
-- Managed MongoDB connections and schemas  
-- Used **Postman** for API testing and debugging  
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering in Computer Science Engineering**  
-Adhiyamaan College of Engineering (Autonomous)  
-**CGPA: 7.87 (up to 6th semester)**  
-
-**Higher Secondary (2022)** – 83.1%  
-**SSLC (2020)** – 95.4%
-
----
-
-## 🏅 Certifications
-- Full Stack – Infosys Springboard  
-- Deep Learning for Natural Language Processing – NPTEL  
-- Dynamic Web Design – Infochord Technology  
 
 ---
 
