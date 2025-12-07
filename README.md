@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm GNANASEKAR
 
-<!--
-**Gnanasekark/Gnanasekark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌱 I’m currently learning: **(technology/language)**
+- 👨‍💻 I enjoy building: **(web apps / mobile apps / automation / games etc.)**
+- 💬 Ask me about: **(skills you are comfortable with)**  
+- ⚡ Fun fact: **(something interesting)*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+### Languages
+![Languages](https://skillicons.dev/icons?i=python,js,java,c,cpp)
+
+
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](YOUR LINK) • 
+
+
